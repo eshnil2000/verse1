@@ -5,7 +5,7 @@
   ],
   "entities": [
       { "id":"city", "gltf-model": "#cityModel"},
-      { "id":"nft", "gltf-model": "#nft0", "position":"100 0 0", "scale":"3 3 3"}
+      { "id":"nft", "gltf-model": "#nft0", "position":"0 0 0", "scale":"30 30 30"}
     
   ]
 }
