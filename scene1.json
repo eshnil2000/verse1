@@ -5,6 +5,6 @@
   ],
   "entities": [
     { "id":"city", "gltf-model": "#cityModel"},
-    { "id":"moto", "gltf-model": "#motorcycle" }
+    { "id":"moto", "gltf-model": "#motorcycle", "scale": "2 1 2" }
   ]
 }
