@@ -1,8 +1,11 @@
 {
   "assets": [
-      { "id": "cityModel", "src": "https://raw.githubusercontent.com/eshnil2000/verse1/main/scene.gltf"}
+      { "id": "cityModel", "src": "https://raw.githubusercontent.com/eshnil2000/verse1/main/scene.gltf"},
+    { "id": "motorcycle", "src": "https://xrpanet.s3.us-west-1.amazonaws.com/motorcycle/scene.gltf"}
   ],
   "entities": [
-      { "id":"city", "gltf-model": "#cityModel"}
+      { "id":"city", "gltf-model": "#cityModel"},
+      { "id":"moto", "gltf-model": "#motorcycle"},
+    
   ]
 }
