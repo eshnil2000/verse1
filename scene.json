@@ -5,6 +5,6 @@
   ],
   "entities": [
       { "id":"city", "gltf-model": "#cityModel"},
-      { "id":"InteonNFT-0", "gltf-model": "#InteonNFT-0")}
+      { "id":"InteonNFT-0", "gltf-model": "#InteonNFT-0"}
   ]
 }
