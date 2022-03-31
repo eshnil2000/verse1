@@ -1,0 +1,10 @@
+{
+  "assets": [
+ 
+    { "id": "nft", "src": "https://raw.githubusercontent.com/eshnil2000/i-nft-images/master/3D-GLTF/InteonNFT-0.gltf"}
+  ],
+  "entities": [
+
+    { "id":"nft0", "gltf-model": "#nft", "scale":"2 2 2 ", "position":"0 0 0"}
+  ]
+}
