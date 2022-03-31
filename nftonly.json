@@ -5,6 +5,6 @@
   ],
   "entities": [
 
-    { "id":"nft0", "gltf-model": "#nft"}
+    { "id":"nft0", "gltf-model": "#nft", "scale":"10 10 10","position":"0 0 0"}
   ]
 }
