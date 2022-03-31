@@ -1,11 +1,11 @@
 {
   "assets": [
       { "id": "cityModel", "src": "https://raw.githubusercontent.com/eshnil2000/verse1/main/scene.gltf"},
-    { "id": "motorcycle", "src": "https://xrpanet.s3.us-west-1.amazonaws.com/motorcycle/scene.gltf"}
+    { "id": "nft0", "src": "https://raw.githubusercontent.com/eshnil2000/i-nft-images/master/3D-GLTF/InteonNFT-0.gltf"}
   ],
   "entities": [
       { "id":"city", "gltf-model": "#cityModel"},
-      { "id":"moto", "gltf-model": "#motorcycle"},
+      { "id":"nft", "gltf-model": "#nft0","scale":"3 3 3", "position":"0 0 0"},
     
   ]
 }
