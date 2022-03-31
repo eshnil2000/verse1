@@ -1,6 +1,6 @@
 {
   "assets": [
-      { "id": "cityModel", "src": "https://xrpanet.s3-us-west-1.amazonaws.com/kidville/scene.gltf"}.
+      { "id": "cityModel", "src": "https://xrpanet.s3-us-west-1.amazonaws.com/kidville/scene.gltf"},
       { "id": "InteonNFT-0", "src": "https://raw.githubusercontent.com/eshnil2000/i-nft-images/master/3D-GLTF/InteonNFT-0.gltf"}
   ],
   "entities": [
