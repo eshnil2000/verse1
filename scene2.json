@@ -1,0 +1,8 @@
+{
+  "assets": [
+      { "id": "cityModel", "src": "https://raw.githubusercontent.com/eshnil2000/verse1/main/scene.gltf"}
+  ],
+  "entities": [
+      { "id":"city", "gltf-model": "#cityModel"}
+  ]
+}
