@@ -1,7 +1,7 @@
 {
   "assets": [
     { "id": "cityModel", "src": "https://xrpanet.s3.us-west-1.amazonaws.com/scaniverse2.glb"},
-    { "id": "motorcycle", "src": "https://raw.githubusercontent.com/eshnil2000/i-nft-images/master/3D-GLTF/InteonNFT-7.gltf"}
+    { "id": "motorcycle", "src": "https://raw.githubusercontent.com/eshnil2000/i-nft-images/master/3D-GLTF/InteonNFT-3.gltf"}
   ],
   "entities": [
     { "id":"city", "gltf-model": "#cityModel"},
