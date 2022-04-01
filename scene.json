@@ -9,7 +9,7 @@
   ],
   "entities": [
       { "id":"city", "gltf-model": "#cityModel"},
-      { "id":"InteonNFT-0", "gltf-model": "#InteonNFT-0", "scale": "5 5 5", "position": "5 2 -5", "rotation": "-30 0 0"},
+      { "id":"InteonNFT-0", "gltf-model": "#InteonNFT-0", "scale": "5 5 5", "position": "5 2 -5", "rotation": "-30 0 0","material": { "color": "#CBF" }},
       { "id":"InteonNFT-1", "gltf-model": "#InteonNFT-1", "scale": "5 5 5", "position": "0 6 0", "rotation": "-30 0 0"},
     { "id":"InteonNFT-2", "gltf-model": "#InteonNFT-2", "scale": "5 5 5", "position": "-5 6 -5", "rotation": "-30 0 0"},
     { "id":"InteonNFT-3", "gltf-model": "#InteonNFT-3", "scale": "5 5 5", "position": "0 6 5", "rotation": "-30 0 0"}
