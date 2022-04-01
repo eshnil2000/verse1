@@ -1,10 +1,12 @@
 {
   "assets": [
       { "id": "cityModel", "src": "https://xrpanet.s3-us-west-1.amazonaws.com/kidville/scene.gltf"},
-      { "id": "InteonNFT-0", "src": "https://raw.githubusercontent.com/eshnil2000/i-nft-images/master/3D-GLTF/InteonNFT-0.gltf"}
+      { "id": "InteonNFT-0", "src": "https://raw.githubusercontent.com/eshnil2000/i-nft-images/master/3D-GLTF/InteonNFT-0.gltf"}, 
+      { "id": "InteonNFT-1", "src": "https://raw.githubusercontent.com/eshnil2000/i-nft-images/master/3D-GLTF/InteonNFT-1.gltf"}
   ],
   "entities": [
       { "id":"city", "gltf-model": "#cityModel"},
-      { "id":"InteonNFT-0", "gltf-model": "#InteonNFT-0", "scale": "5 5 5", "position": "0 2 -2", "rotation": "-30 0 0"}
+      { "id":"InteonNFT-0", "gltf-model": "#InteonNFT-0", "scale": "5 5 5", "position": "0 2 -2", "rotation": "-30 0 0"},
+      { "id":"InteonNFT-1", "gltf-model": "#InteonNFT-1", "scale": "5 5 5", "position": "0 2 -20", "rotation": "-30 0 0"}
   ]
 }
