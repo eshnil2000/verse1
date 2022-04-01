@@ -10,6 +10,7 @@
   "entities": [
       { "id":"city", "gltf-model": "#cityModel"},
       { "id":"InteonNFT-0", "gltf-model": "#InteonNFT-0", "scale": "5 5 5", "position": "0 2 -2", "rotation": "-30 0 0"},
+      { "id":"InteonNFT-x", "gltf-model": "#InteonNFT-0", "scale": "5 5 5", "position": "0 5 -2", "rotation": "-30 0 0"},
       { "id":"InteonNFT-1", "gltf-model": "#InteonNFT-1", "scale": "5 5 5", "position": "-10 4 -4", "rotation": "-30 0 0"},
     { "id":"InteonNFT-2", "gltf-model": "#InteonNFT-2", "scale": "5 5 5", "position": "-10 4 2", "rotation": "-30 0 0"},
     { "id":"InteonNFT-3", "gltf-model": "#InteonNFT-3", "scale": "5 5 5", "position": "10 2 4", "rotation": "-30 0 0"}
